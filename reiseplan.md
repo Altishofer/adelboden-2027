@@ -87,7 +87,7 @@ permalink: /
 
 | Was | Info |
 |---|---|
-| Parkplatz | P+R Reichenbach i. K. · an der Strasse Spiez–Frutigen · in Adelboden keine |
+| Parkplatz | P+R Reichenbach i. K. · an der Strasse Spiez–Frutigen |
 | Preis | CHF 15 pro Auto und Tag · Vorverkauf nicht bekannt, vermutlich vor Ort |
 | Shuttle | im Rennticket inbegriffen · hin 7.00–13.00 · zurück 14.30–23.00, ca. 45 Min. |
 | Über Nacht | unklar, beim Weltcup-Büro fragen · vermutlich 2 × CHF 15 |
@@ -111,7 +111,7 @@ permalink: /
 | ☐ Weltcup-Büro fragen | darf das Auto von Samstag bis Sonntag im P+R Reichenbach bleiben? · +41 33 673 70 60 · info@weltcup-adelboden.ch · Mo–Fr |
 | ☐ Taxis reservieren | Samstagabend ins Hotel (Option A–D) · Sonntag 11.10 Hotel → P+R |
 | Rennticket | Shuttle inbegriffen, Moonliner nicht · offline auf dem Handy |
-| Parken | P+R Reichenbach, CHF 15 pro Tag · in Adelboden keine Parkplätze |
+| Parken | P+R Reichenbach, CHF 15 pro Tag |
 | Taxi Spiez | Tagsi AG · +41 33 222 22 22 |
 | Taxi Adelboden | für Option D vorher Preis anfragen |
 | Vignette | 2027 nötig · gilt ab 1. Dezember 2026 |
