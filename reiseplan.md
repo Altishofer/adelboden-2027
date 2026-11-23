@@ -125,7 +125,6 @@ permalink: /
 | Parken | P+R Reichenbach, CHF 15 pro Tag |
 | Taxi Spiez | Tagsi AG · +41 33 222 22 22 |
 | Taxi Adelboden | für Option D vorher Preis anfragen |
-| Vignette | 2027 nötig · gilt ab 1. Dezember 2026 |
 
 **Packliste**
 
