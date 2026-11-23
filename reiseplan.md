@@ -30,7 +30,7 @@ permalink: /
 | 10.30 | Riesenslalom, 1. Lauf | | |
 | 13.30 | 2. Lauf | | |
 | ab 14.30 | Weltcup-Party | wir bleiben oben, kein Hin und Her ins Hotel | |
-| je nach Option | Zurück ins Hotel | 4 Optionen, je nach Antwort des Hotels → [Rückfahrt](#rueckfahrt) | |
+| je nach Option | Zurück ins Hotel | Optionen A–E, je nach Antwort des Hotels → [Rückfahrt](#rueckfahrt) | |
 
 ### Rückfahrt nach der Party {#rueckfahrt}
 
@@ -107,7 +107,7 @@ permalink: /
 | Sonntag | Auto holen mit Taxi ab Hotel |
 | Strom | 10 Ladestationen, ohne Reservation |
 
-**Samstag · Zielgelände → Hotel** · Optionen A–D → [Rückfahrt](#rueckfahrt)
+**Samstag · Zielgelände → Hotel** · Optionen A–E → [Rückfahrt](#rueckfahrt)
 
 **Tickets** · Shuttle: Rennticket · Moonliner: nur Option C, Spezialticket SBB-App
 
