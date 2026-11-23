@@ -36,6 +36,7 @@ permalink: /
 
 | Option | Party bis | Weg | Im Hotel | Braucht vom Hotel |
 |---|---|---|---|---|
+| E · Faulensee-Shuttle | Fahrplan offen | Shuttle direkt nach Faulensee, nur wenn retour gebucht | offen | je nach Zeit |
 | A · Früh | ca. 17.30 | Shuttle → P+R Reichenbach · Taxi | ca. 18.45 | nichts, normaler Check-in bis 19.00 |
 | B · Abend | 23.00, letzter Shuttle | Shuttle → P+R Reichenbach · Taxi | ca. 0.05 | Check-in ca. 0.05 |
 | C · Lange Nacht | ca. 0.45 | Moonliner M45 1.00 ab Adelboden, Post → Spiez 1.55 · Taxi | ca. 2.10 | Check-in ca. 2.10 |
@@ -84,7 +85,17 @@ permalink: /
 | 6.15 | ca. 7.40 | Auto ab Luzern | ca. 85 km |
 | 5.55 | ca. 7.50 | Auto ab Dielsdorf | ca. 160 km |
 
-**Samstag · Hotel → P+R → Zielgelände** · [Route Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Reichenbach+im+Kandertal&travelmode=driving) · [Weltcup-Anreise](https://www.weltcup-adelboden.ch/anreise)
+**Samstag · Hotel → Zielgelände · 2 Varianten**
+
+| | Shuttle ab Faulensee | Auto → P+R Reichenbach |
+|---|---|---|
+| Wer | Spiez Marketing AG, über Hotel | Weltcup, offiziell |
+| Preis p. P. | ca. CHF 19 einfach · CHF 32 retour | Shuttle im Rennticket · CHF 15 pro Auto und Tag |
+| Fahrplan | noch offen | hin 7.00–13.00 · zurück 14.30–23.00 |
+| Auto | bleibt im Hotel | bleibt bis Sonntag im P+R · Sonntag mit Taxi holen |
+| Anmelden | **bis 27. November 2026** beim Hotel | nicht nötig |
+
+**Variante P+R** · [Route Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Reichenbach+im+Kandertal&travelmode=driving) · [Weltcup-Anreise](https://www.weltcup-adelboden.ch/anreise)
 
 | Was | Info |
 |---|---|
@@ -108,8 +119,9 @@ permalink: /
 | Check-in | offiziell Samstag 16.00–19.00 · am Morgen fragen |
 | Check-out | Sonntag bis 12.00 |
 | Stornieren | gratis bis 1. Januar 2027, 23.59 |
-| ☐ Hotel fragen | Check-in schon um 7.50, Schlüssel mitnehmen? · sonst Gepäck ab 7.50 und Check-in bis wann: Mitternacht oder ca. 2.10? → [Rückfahrt](#rueckfahrt) · falls das Auto nicht über Nacht im P+R bleiben darf: Auto ab 7.50 bis Sonntag im Hotel? |
-| ☐ Weltcup-Büro fragen | darf das Auto von Samstag bis Sonntag im P+R Reichenbach bleiben? · +41 33 673 70 60 · info@weltcup-adelboden.ch · Mo–Fr |
+| ☐ Bis 27.11. Hotel antworten | Faulensee-Shuttle Samstag · 2 Personen · einfach oder retour · Name, E-Mail, Handy · info@seeblick.ch |
+| ☐ Hotel fragen | Check-in schon um 7.50, Schlüssel mitnehmen? · sonst Gepäck ab 7.50 und Check-in bis wann: Mitternacht oder ca. 2.10? → [Rückfahrt](#rueckfahrt) · Auto ab 7.50 bis Sonntag im Hotel (bei Faulensee-Shuttle, oder falls nicht im P+R)? |
+| ☐ Weltcup-Büro fragen | nur Variante P+R: darf das Auto von Samstag bis Sonntag im P+R Reichenbach bleiben? · +41 33 673 70 60 · info@weltcup-adelboden.ch · Mo–Fr |
 | ☐ Taxis reservieren | Samstagabend ins Hotel (Option A–D) · Sonntag 11.10 Hotel → P+R |
 | Rennticket | Shuttle inbegriffen, Moonliner nicht · offline auf dem Handy |
 | Parken | P+R Reichenbach, CHF 15 pro Tag |
