@@ -102,7 +102,7 @@ permalink: /
 | Parkplatz | P+R Reichenbach i. K. · an der Strasse Spiez–Frutigen |
 | Preis | CHF 15 pro Auto und Tag · Vorverkauf nicht bekannt, vermutlich vor Ort |
 | Shuttle | im Rennticket inbegriffen · hin 7.00–13.00 · zurück 14.30–23.00, ca. 45 Min. |
-| Über Nacht | Auto bleibt bis Sonntag · vermutlich 2 × CHF 15 |
+| Über Nacht | Auto bleibt bis Sonntag · Sa + So = vermutlich CHF 30 pro Auto |
 | Rückfahrt | Auto bleibt über Nacht · Taxi ins Hotel, ca. 15 Min. |
 | Sonntag | Auto holen mit Taxi ab Hotel |
 | Strom | 10 Ladestationen, ohne Reservation |
