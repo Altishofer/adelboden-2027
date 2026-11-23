@@ -25,7 +25,7 @@ permalink: /
 | 5.55 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
 | 6.15 | Abfahrt Luzern | → [Anreise](#anreise) | |
 | 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Check-in mit Schlüssel, sonst Gepäck abgeben | gebucht |
-| ca. 8.05 | Auto → [P+R Reichenbach](https://www.google.com/maps/search/?api=1&query=Reichenbach+im+Kandertal) | Auto bleibt bis Sonntag | CHF 15 pro Tag |
+| ca. 8.05 | Auto → [P+R Flugplatz Reichenbach](https://www.google.com/maps/search/?api=1&query=Flugplatz+Reichenbach+im+Kandertal) | Stau möglich, Auto bleibt bis Sonntag | CHF 15 pro Tag |
 | ca. 8.30 | Weltcup-Shuttle | ca. 45 Min. | im Rennticket |
 | ca. 9.15 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
 | 10.30 | Riesenslalom, 1. Lauf | | |
@@ -94,7 +94,7 @@ permalink: /
 | Rückfahrt | offen | 14.30–23.00 |
 | Sonntag | Auto steht beim Hotel | Taxi zum P+R |
 | Anmelden | bis 27. November | nicht nötig |
-| Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Reichenbach+im+Kandertal&travelmode=driving) |
+| Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) |
 
 ## Wichtig zu wissen
 
