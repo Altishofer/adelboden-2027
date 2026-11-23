@@ -23,7 +23,7 @@ permalink: /
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
 | 6.15 | Abfahrt | ab Luzern · ab Dielsdorf 5.55 → [Anreise](#anreise) | |
-| 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | nur Gepäck abgeben · Check-in erst ab 16.00 | gebucht, 2 Personen |
+| 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Check-in am Morgen, Schlüssel mitnehmen · sonst nur Gepäck abgeben | gebucht, 2 Personen |
 | ca. 8.05 | Auto → [P+R Reichenbach](https://www.google.com/maps/search/?api=1&query=Reichenbach+im+Kandertal) | offizieller Weltcup-Parkplatz im Tal · Auto bleibt bis Sonntag → [Anreise](#anreise) | CHF 15 pro Tag |
 | ca. 8.30 | Weltcup-Shuttle | direkt ins Zielgelände, ca. 45 Min. · im Rennticket inbegriffen | |
 | ca. 9.15 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
@@ -45,6 +45,7 @@ permalink: /
 
 | Hotel sagt | Dann |
 |---|---|
+| Check-in am Morgen, Schlüssel mitnehmen | Option C oder D, je nach Lust |
 | Check-in jederzeit möglich (Nachtportier, Schlüsselbox oder Code) | Option C oder D, je nach Lust |
 | Check-in bis ca. Mitternacht | Option B |
 | Check-in nur bis 19.00 | Option A |
@@ -104,10 +105,10 @@ permalink: /
 | Was | Info |
 |---|---|
 | Hotel | [Strandhotel Seeblick](https://www.seeblick.ch), Interlakenstrasse 81, Faulensee · +41 33 655 60 80 · res@seeblick.ch |
-| Check-in | Samstag 16.00–19.00 |
+| Check-in | offiziell Samstag 16.00–19.00 · am Morgen fragen |
 | Check-out | Sonntag bis 12.00 |
 | Stornieren | gratis bis 1. Januar 2027, 23.59 |
-| ☐ Hotel fragen | Gepäck ab 7.50 · Check-in bis wann möglich: Mitternacht oder ca. 2.10? → [Rückfahrt](#rueckfahrt) · falls das Auto nicht über Nacht im P+R bleiben darf: Auto ab 7.50 bis Sonntag im Hotel? |
+| ☐ Hotel fragen | Check-in schon um 7.50, Schlüssel mitnehmen? · sonst Gepäck ab 7.50 und Check-in bis wann: Mitternacht oder ca. 2.10? → [Rückfahrt](#rueckfahrt) · falls das Auto nicht über Nacht im P+R bleiben darf: Auto ab 7.50 bis Sonntag im Hotel? |
 | ☐ Weltcup-Büro fragen | darf das Auto von Samstag bis Sonntag im P+R Reichenbach bleiben? · +41 33 673 70 60 · info@weltcup-adelboden.ch · Mo–Fr |
 | ☐ Taxis reservieren | Samstagabend ins Hotel (Option A–D) · Sonntag 11.10 Hotel → P+R |
 | Rennticket | Shuttle inbegriffen, Moonliner nicht · offline auf dem Handy |
