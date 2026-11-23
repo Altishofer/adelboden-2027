@@ -86,15 +86,16 @@ permalink: /
 
 **Hotel → Zielgelände**
 
-| | Faulensee-Shuttle | [P+R Reichenbach](https://www.weltcup-adelboden.ch/anreise) |
-|---|---|---|
-| Shuttle | CHF 19 einfach, 32 retour | im Rennticket |
-| Parkieren | beim Hotel | CHF 15 pro Tag |
-| Hinfahrt | offen | 7.00–13.00 |
-| Rückfahrt | offen | 14.30–23.00 |
-| Sonntag | Auto steht beim Hotel | Taxi zum P+R |
-| Anmelden | bis 27. November | nicht nötig |
-| Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) |
+| | Faulensee-Shuttle | [P+R Reichenbach](https://www.weltcup-adelboden.ch/anreise) | Zug via Frutigen |
+|---|---|---|---|
+| Anfahrt | | Auto, Stau möglich | Bus/Auto → Bahnhof Spiez, Zug → Frutigen |
+| Shuttle | CHF 19 einfach, 32 retour | im Rennticket | im Rennticket, ca. 40 Min. |
+| Parkieren | beim Hotel | CHF 15 pro Tag | beim Hotel |
+| Hinfahrt | offen | 7.00–13.00 | 7.00–13.00, Extrazüge |
+| Rückfahrt | offen | 14.30–23.00 | 14.30–23.00 bis Frutigen |
+| Sonntag | Auto steht beim Hotel | Taxi zum P+R | Auto steht beim Hotel |
+| Anmelden | bis 27. November | nicht nötig | nicht nötig |
+| Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) | [Hotel → Frutigen](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Bahnhof+Frutigen&travelmode=transit) |
 
 ## Wichtig zu wissen
 
