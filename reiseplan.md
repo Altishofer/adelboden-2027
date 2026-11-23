@@ -61,7 +61,7 @@ permalink: /
 |---|---|---|---|
 | 9.00 | Frühstück im Hotel | Buffet 7.30–10.30 · CHF 22 pro Person | |
 | 11.00 | Check-out | mit Gepäck | |
-| ca. 11.10 | Taxi → P+R Reichenbach | Auto holen, ca. 15 Min. · vorher reservieren | |
+| ca. 11.10 | Taxi → P+R Reichenbach | Auto holen, ca. 15 Min. | |
 | Mittag | Warmes Bad | → [Bäder](#baeder) | |
 | ca. 17.00 | Heimfahrt | | |
 
@@ -102,7 +102,7 @@ permalink: /
 | Parkplatz | P+R Reichenbach i. K. · an der Strasse Spiez–Frutigen |
 | Preis | CHF 15 pro Auto und Tag · Vorverkauf nicht bekannt, vermutlich vor Ort |
 | Shuttle | im Rennticket inbegriffen · hin 7.00–13.00 · zurück 14.30–23.00, ca. 45 Min. |
-| Über Nacht | unklar, beim Weltcup-Büro fragen · vermutlich 2 × CHF 15 |
+| Über Nacht | Auto bleibt bis Sonntag · vermutlich 2 × CHF 15 |
 | Rückfahrt | Auto bleibt über Nacht · Taxi ins Hotel, ca. 15 Min. |
 | Sonntag | Auto holen mit Taxi ab Hotel |
 | Strom | 10 Ladestationen, ohne Reservation |
@@ -121,8 +121,6 @@ permalink: /
 | Stornieren | gratis bis 1. Januar 2027, 23.59 |
 | ☐ Bis 27.11. Hotel antworten | Faulensee-Shuttle Samstag · 2 Personen · einfach oder retour · Name, E-Mail, Handy · info@seeblick.ch |
 | ☐ Hotel fragen | Check-in schon um 7.50, Schlüssel mitnehmen? · sonst Gepäck ab 7.50 und Check-in bis wann: Mitternacht oder ca. 2.10? → [Rückfahrt](#rueckfahrt) · Auto ab 7.50 bis Sonntag im Hotel (bei Faulensee-Shuttle, oder falls nicht im P+R)? |
-| ☐ Weltcup-Büro fragen | nur Variante P+R: darf das Auto von Samstag bis Sonntag im P+R Reichenbach bleiben? · +41 33 673 70 60 · info@weltcup-adelboden.ch · Mo–Fr |
-| ☐ Taxis reservieren | Samstagabend ins Hotel (Option A–D) · Sonntag 11.10 Hotel → P+R |
 | Rennticket | Shuttle inbegriffen, Moonliner nicht · offline auf dem Handy |
 | Parken | P+R Reichenbach, CHF 15 pro Tag |
 | Taxi Spiez | Tagsi AG · +41 33 222 22 22 |
