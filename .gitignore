@@ -1,0 +1,13 @@
+# Nur der öffentliche Plan und seine Bilder
+/*
+!/.gitignore
+!/reiseplan.md
+!/README.md
+!/_config.yml
+!/_includes/
+!/assets/
+!/img/
+/img/*
+!/img/weltcup-slalom.jpg
+!/img/adelboden-winter.jpg
+!/img/spiez-faulensee.jpg

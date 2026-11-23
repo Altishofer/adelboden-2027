@@ -1,0 +1,11 @@
+title: Adelboden · 9.–10. Januar 2027
+description: Weltcup-Riesenslalom am Chuenisbärgli und warmes Wasser auf dem Heimweg
+lang: de
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
+  - docs
