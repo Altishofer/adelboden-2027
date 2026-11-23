@@ -34,8 +34,6 @@ permalink: /
 
 ### Rückfahrt nach der Party {#rueckfahrt}
 
-Niemand fährt Auto, es bleibt im P+R. Keine normalen Busse und Züge: Weltcup-Shuttle ins Tal (zurück 14.30–23.00, ca. 45 Min.), dann Taxi ins Hotel, ca. 15 Min. Taxis an diesem Abend vorher reservieren.
-
 | Option | Party bis | Weg | Im Hotel | Braucht vom Hotel |
 |---|---|---|---|---|
 | A · Früh | ca. 17.30 | Shuttle → P+R Reichenbach · Taxi | ca. 18.45 | nichts, normaler Check-in bis 19.00 |
@@ -87,19 +85,19 @@ Niemand fährt Auto, es bleibt im P+R. Keine normalen Busse und Züge: Weltcup-S
 
 **Samstag · Hotel → P+R → Zielgelände** · [Route Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Reichenbach+im+Kandertal&travelmode=driving) · [Weltcup-Anreise](https://www.weltcup-adelboden.ch/anreise)
 
-In Adelboden gibt es am Wochenende keine Parkplätze. Offizieller Parkplatz ist der P+R Reichenbach im Kandertal, an der Strasse Spiez–Frutigen. Von dort fährt der Weltcup-Shuttle ohne Halt ins Zielgelände.
-
 | Was | Info |
 |---|---|
+| Parkplatz | P+R Reichenbach i. K. · an der Strasse Spiez–Frutigen · in Adelboden keine |
 | Preis | CHF 15 pro Auto und Tag · Vorverkauf nicht bekannt, vermutlich vor Ort |
 | Shuttle | im Rennticket inbegriffen · hin 7.00–13.00 · zurück 14.30–23.00, ca. 45 Min. |
 | Über Nacht | unklar, beim Weltcup-Büro fragen · vermutlich 2 × CHF 15 |
+| Rückfahrt | Auto bleibt über Nacht · Taxi ins Hotel, ca. 15 Min. |
 | Sonntag | Auto holen mit Taxi ab Hotel |
 | Strom | 10 Ladestationen, ohne Reservation |
 
 **Samstag · Zielgelände → Hotel** · Optionen A–D → [Rückfahrt](#rueckfahrt)
 
-**Tickets** · Shuttle im Rennticket · nur bei Option C: Moonliner-Ticket für 2 Personen in der SBB-App, normale Billette gelten nicht
+**Tickets** · Shuttle: Rennticket · Moonliner: nur Option C, Spezialticket SBB-App
 
 ## Wichtig zu wissen
 
