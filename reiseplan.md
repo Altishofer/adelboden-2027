@@ -24,7 +24,7 @@ permalink: /
 |---|---|---|---|
 | 5.55 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
 | 6.15 | Abfahrt Luzern | → [Anreise](#anreise) | |
-| 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Check-in mit Schlüssel, sonst Gepäck abgeben | gebucht |
+| 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Auto parkieren, Gepäck abgeben, Zimmer erst später | gebucht |
 | ca. 8.05 | Auto → [P+R Flugplatz Reichenbach](https://www.google.com/maps/search/?api=1&query=Flugplatz+Reichenbach+im+Kandertal) | Stau möglich, Auto bleibt bis Sonntag | CHF 15 pro Tag |
 | ca. 8.30 | Weltcup-Shuttle | ca. 45 Min. | im Rennticket |
 | ca. 9.15 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
@@ -91,10 +91,10 @@ permalink: /
 | Anfahrt | | Auto, Stau möglich | Bus/Auto → Bahnhof Spiez, Zug → Frutigen |
 | Shuttle | CHF 19 einfach, 32 retour | im Rennticket | im Rennticket, ca. 40 Min. |
 | Parkieren | beim Hotel | CHF 15 pro Tag | beim Hotel |
-| Hinfahrt | offen | 7.00–13.00 | 7.00–13.00, Extrazüge |
-| Rückfahrt | offen | 14.30–23.00 | 14.30–23.00 bis Frutigen |
+| Hinfahrt | Zeiten folgen über Booking | 7.00–13.00 | 7.00–13.00, Extrazüge |
+| Rückfahrt | Zeiten folgen über Booking | 14.30–23.00 | 14.30–23.00 bis Frutigen |
 | Sonntag | Auto steht beim Hotel | Taxi zum P+R | Auto steht beim Hotel |
-| Anmelden | bis 27. November | nicht nötig | nicht nötig |
+| Anmelden | bis 27. November, Mail ans Hotel | nicht nötig | nicht nötig |
 | Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) | [Hotel → Frutigen](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Bahnhof+Frutigen&travelmode=transit) |
 
 ## Wichtig zu wissen
@@ -103,10 +103,10 @@ permalink: /
 
 | Bis | Aufgabe |
 |---|---|
-| ☐ 27. November | Hotel: Faulensee-Shuttle anmelden |
-| ☐ bald | Hotel: Check-in am Morgen mit Schlüssel? |
-| ☐ bald | Hotel: sonst Check-in bis wann? |
-| ☐ bald | Hotel: Auto bis Sonntag beim Hotel? |
+| ☐ 27. November | Faulensee-Shuttle: Mail ans Hotel mit Name, Telefon, E-Mail |
+| ☐ 6.–7. Januar | Hotel anrufen: Karte am Samstag ab 8.00 abholen? Sonst Check-in bis wann? |
+| ☑ | Auto ab 7.50 beim Hotel parkieren: kein Problem |
+| ☑ | Gepäck am Morgen abgeben: geht, Zimmer erst später |
 
 **Hotel**
 
