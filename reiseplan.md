@@ -104,7 +104,7 @@ permalink: /
 | Bis | Aufgabe |
 |---|---|
 | ☐ 27. November | Faulensee-Shuttle: Mail ans Hotel mit Name, Telefon, E-Mail |
-| ☐ 6.–7. Januar | Hotel anrufen: Karte am Samstag ab 8.00 abholen? Sonst Check-in bis wann? |
+| ☐ 6.–7. Januar | Hotel anrufen: Rezeption ab 8.00 besetzt? Ab 9.00 sicher. Sonst Check-in bis wann? |
 | ☑ | Auto ab 7.50 beim Hotel parkieren: kein Problem |
 | ☑ | Gepäck am Morgen abgeben: geht, Zimmer erst später |
 
