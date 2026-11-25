@@ -22,12 +22,11 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 5.55 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
-| 6.15 | Abfahrt Luzern | → [Anreise](#anreise) | |
-| 7.50 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Auto parkieren, Gepäck abgeben, Zimmer erst später | gebucht |
-| ca. 8.05 | Auto → [P+R Flugplatz Reichenbach](https://www.google.com/maps/search/?api=1&query=Flugplatz+Reichenbach+im+Kandertal) | Stau möglich, Auto bleibt bis Sonntag | CHF 15 pro Tag |
-| ca. 8.30 | Weltcup-Shuttle | ca. 45 Min. | im Rennticket |
-| ca. 9.15 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
+| 5.20 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
+| 5.50 | Abfahrt Luzern | → [Anreise](#anreise) | |
+| ca. 7.15 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Schlüssel im Couvert, Auto bleibt beim Hotel | gebucht, Voucher vorbezahlt |
+| 7.30 | Faulensee-Shuttle ab Hotel | fährt nur 1×, Zeit provisorisch | CHF 19 |
+| ca. 8.30 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
 | 10.30 | Riesenslalom, 1. Lauf | | |
 | 13.30 | 2. Lauf | | |
 | ab 14.30 | Weltcup-Party | wir bleiben oben | |
@@ -37,18 +36,12 @@ permalink: /
 
 | Option | Party bis | Weg | Im Hotel |
 |---|---|---|---|
-| **A** Früh | ca. 17.30 | Shuttle → P+R → Taxi | ca. 18.45 |
+| **A** Früh | ca. 16.45 | Faulensee-Shuttle 17.00, provisorisch | ca. 18.00 |
 | **B** Abend | 23.00 | letzter Shuttle → P+R → Taxi | ca. 0.05 |
 | **C** Lange Nacht | ca. 0.45 | Moonliner 1.00 → Spiez → Taxi | ca. 2.10 |
 | **D** Taxi | beliebig | Taxi direkt, ca. 45 Min. | beliebig |
-| **E** Faulensee-Shuttle | offen | Shuttle direkt ins Hotel | offen |
 
-| Hotel sagt | Option |
-|---|---|
-| Check-in am Morgen | C oder D |
-| Check-in jederzeit | C oder D |
-| Check-in bis Mitternacht | B |
-| Check-in bis 19.00 | A |
+Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 
 ## Sonntag, 10. Januar
 
@@ -60,7 +53,6 @@ permalink: /
 |---|---|---|---|
 | 9.00 | Frühstück im Hotel | Buffet 7.30–10.30 | CHF 22 pro Person |
 | 11.00 | Check-out | mit Gepäck | |
-| ca. 11.10 | Taxi → P+R Reichenbach | Auto holen | |
 | Mittag | Warmes Bad | → [Bäder](#baeder) | |
 | ca. 17.00 | Heimfahrt | | |
 
@@ -81,18 +73,18 @@ permalink: /
 
 | Ab | An | Von | Route |
 |---|---|---|---|
-| 5.55 | ca. 7.50 | Dielsdorf | [160 km](https://www.google.com/maps/dir/?api=1&origin=Dielsdorf&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
-| 6.15 | ca. 7.40 | Luzern | [85 km](https://www.google.com/maps/dir/?api=1&origin=Luzern&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
+| 5.20 | ca. 7.15 | Dielsdorf | [160 km](https://www.google.com/maps/dir/?api=1&origin=Dielsdorf&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
+| 5.50 | ca. 7.15 | Luzern | [85 km](https://www.google.com/maps/dir/?api=1&origin=Luzern&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
 
 **Hotel → Zielgelände**
 
-| | Faulensee-Shuttle | [P+R Reichenbach](https://www.weltcup-adelboden.ch/anreise) | Zug via Frutigen |
+| | **Faulensee-Shuttle ✓** | [P+R Reichenbach](https://www.weltcup-adelboden.ch/anreise) | Zug via Frutigen |
 |---|---|---|---|
 | Anfahrt | | Auto, Stau möglich | Bus/Auto → Bahnhof Spiez, Zug → Frutigen |
 | Shuttle | CHF 19 einfach, 32 retour | im Rennticket | im Rennticket, ca. 40 Min. |
 | Parkieren | beim Hotel | CHF 15 pro Tag | beim Hotel |
-| Hinfahrt | Zeiten folgen über Booking | 7.00–13.00 | 7.00–13.00, Extrazüge |
-| Rückfahrt | Zeiten folgen über Booking | 14.30–23.00 | 14.30–23.00 bis Frutigen |
+| Hinfahrt | 7.30 ab Hotel, nur 1× | 7.00–13.00 | 7.00–13.00, Extrazüge |
+| Rückfahrt | 17.00 ab Adelboden, nur 1× | 14.30–23.00 | 14.30–23.00 bis Frutigen |
 | Sonntag | Auto steht beim Hotel | Taxi zum P+R | Auto steht beim Hotel |
 | Anmelden | bis 27. November, Mail ans Hotel | nicht nötig | nicht nötig |
 | Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) | [Hotel → Frutigen](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Bahnhof+Frutigen&travelmode=transit) |
@@ -103,10 +95,10 @@ permalink: /
 
 | Bis | Aufgabe |
 |---|---|
-| ☐ 27. November | Faulensee-Shuttle: Mail ans Hotel mit Name, Telefon, E-Mail |
-| ☐ 6.–7. Januar | Hotel anrufen: Rezeption ab 8.00 besetzt? Ab 9.00 sicher. Sonst Check-in bis wann? |
-| ☑ | Auto ab 7.50 beim Hotel parkieren: kein Problem |
-| ☑ | Gepäck am Morgen abgeben: geht, Zimmer erst später |
+| ☐ 27. November | Shuttle per Mail ans Hotel: Sa, 2 Pers., Hinfahrt, Retour ja/nein, Namen, E-Mail, Handy |
+| ☐ bald | Voucher vorbezahlen → Schlüssel-Couvert |
+| ☐ bald | Hotel: Kreditkarte als Garantie, wie ohne Reception? |
+| ☑ | Auto beim Hotel parkieren: kein Problem |
 
 **Hotel**
 
@@ -116,7 +108,8 @@ permalink: /
 | Adresse | Interlakenstrasse 81, Faulensee |
 | Telefon | +41 33 655 60 80 |
 | E-Mail | info@seeblick.ch |
-| Check-in | offiziell 16.00–19.00 |
+| Check-in | jederzeit, Schlüssel im Couvert |
+| Garantie | Kreditkarte vorzeigen (Booking.com) |
 | Check-out | Sonntag bis 12.00 |
 | Stornieren | gratis bis 1. Januar 2027 |
 
