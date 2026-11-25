@@ -22,9 +22,9 @@ permalink: /
 
 | Zeit | Programm | Info | Buchen |
 |---|---|---|---|
-| 5.20 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
-| 5.50 | Abfahrt Luzern | → [Anreise](#anreise) | |
-| ca. 7.15 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Schlüssel im Couvert, Auto bleibt beim Hotel | gebucht, Voucher vorbezahlt |
+| 5.05 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
+| 5.35 | Abfahrt Luzern | → [Anreise](#anreise) | |
+| ca. 7.00 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Schlüssel im Couvert, Auto bleibt beim Hotel | gebucht, Voucher vorbezahlt |
 | 7.30 | Faulensee-Shuttle ab Hotel | fährt nur 1×, Zeit provisorisch | CHF 19 |
 | ca. 8.30 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
 | 10.30 | Riesenslalom, 1. Lauf | | |
@@ -72,8 +72,8 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 
 | Ab | An | Von | Route |
 |---|---|---|---|
-| 5.20 | ca. 7.15 | Dielsdorf | [160 km](https://www.google.com/maps/dir/?api=1&origin=Dielsdorf&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
-| 5.50 | ca. 7.15 | Luzern | [85 km](https://www.google.com/maps/dir/?api=1&origin=Luzern&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
+| 5.05 | ca. 7.00 | Dielsdorf | [160 km](https://www.google.com/maps/dir/?api=1&origin=Dielsdorf&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
+| 5.35 | ca. 7.00 | Luzern | [85 km](https://www.google.com/maps/dir/?api=1&origin=Luzern&destination=Strandhotel+Seeblick%2C+Faulensee&travelmode=driving) |
 
 **Hotel → Zielgelände**
 
