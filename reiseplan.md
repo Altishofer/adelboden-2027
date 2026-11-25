@@ -25,7 +25,7 @@ permalink: /
 | 5.05 | Abfahrt Dielsdorf | → [Anreise](#anreise) | |
 | 5.35 | Abfahrt Luzern | → [Anreise](#anreise) | |
 | ca. 7.00 | [Strandhotel Seeblick](https://www.google.com/maps/search/?api=1&query=Strandhotel+Seeblick%2C+Interlakenstrasse+81%2C+3705+Faulensee) | Schlüssel im Couvert, Auto bleibt beim Hotel | gebucht, Voucher vorbezahlt |
-| 7.30 | Faulensee-Shuttle ab Hotel | fährt nur 1×, Zeit provisorisch | CHF 19 |
+| 7.30 | Faulensee-Shuttle ab Hotel | fährt nur 1×, Zeit provisorisch | angemeldet, CHF 19 |
 | ca. 8.30 | [Zielgelände Chuenisbärgli](https://www.google.com/maps/search/?api=1&query=Chuenisb%C3%A4rgli%2C+Adelboden) | | Tickets vorhanden |
 | 10.30 | Riesenslalom, 1. Lauf | | |
 | 13.30 | 2. Lauf | | |
@@ -64,7 +64,6 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 | +75 / +10 Min. | [Bad Schinznach](https://www.google.com/maps/search/?api=1&query=Bad+Schinznach+Aquarena) | 36 °C | 50-m-Aussenbad | **[Infos](https://www.bad-schinznach.ch)** |
 | +75 / +10 Min. | [FORTYSEVEN, Baden](https://www.google.com/maps/search/?api=1&query=FORTYSEVEN%2C+Baden) | 38 °C | Hot Pool | **[Infos](https://www.fortyseven.ch)** |
 | +75 / +30 Min. | [Thermalbad Zürich](https://www.google.com/maps/search/?api=1&query=Thermalbad+%26+Spa+Z%C3%BCrich) | ca. 35 °C | Dachbad | **[Infos](https://www.thermalbad-zuerich.ch)** |
-| +3 Std. | [Leukerbad](https://www.google.com/maps/search/?api=1&query=Leukerbad+Therme) | 36–43 °C | Autoverlad Lötschberg | **[Infos](https://leukerbad.ch/en/therme)** |
 
 ## Anreise
 
@@ -85,7 +84,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 | Hinfahrt | 7.30 ab Hotel, nur 1× | 7.00–13.00 | 7.00–13.00, Extrazüge |
 | Rückfahrt | 17.00 ab Adelboden, nur 1× | 14.30–23.00 | 14.30–23.00 bis Frutigen |
 | Sonntag | Auto steht beim Hotel | Taxi zum P+R | Auto steht beim Hotel |
-| Anmelden | bis 27. November, Mail ans Hotel | nicht nötig | nicht nötig |
+| Anmelden | ✓ angemeldet | nicht nötig | nicht nötig |
 | Route | | [Hotel → Reichenbach](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Flugplatz+Reichenbach+im+Kandertal&travelmode=driving) | [Hotel → Frutigen](https://www.google.com/maps/dir/?api=1&origin=Strandhotel+Seeblick%2C+Faulensee&destination=Bahnhof+Frutigen&travelmode=transit) |
 
 ## Wichtig zu wissen
@@ -94,7 +93,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 
 | Bis | Aufgabe |
 |---|---|
-| ☐ 27. November | Shuttle per Mail ans Hotel: Sa, 2 Pers., nur Hinfahrt, Namen, E-Mail, Handy |
+| ☑ 25. November | Shuttle angemeldet: Sa, 2 Pers., nur Hinfahrt |
 | ☐ bald | Voucher vorbezahlen → Schlüssel-Couvert |
 | ☐ bald | Hotel: Kreditkarte als Garantie, wie ohne Reception? |
 | ☑ | Auto beim Hotel parkieren: kein Problem |
