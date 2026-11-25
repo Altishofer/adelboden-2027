@@ -127,7 +127,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 | Skihose, warme Schuhe, Mütze, Handschuhe | stundenlang im Schnee stehen |
 | Kleiner Rucksack | Samstag ohne Gepäck unterwegs |
 | Badesachen, Badetuch, Badeschuhe | Sonntag |
-| Schneeketten, Eiskratzer | Auto |
+| Eiskratzer | Auto |
 | Powerbank | Tickets und SBB-App, Akkus leeren sich in der Kälte |
 
 <sub>Bilder: Wikimedia Commons · Zielgelände © Chris Schaer, CC BY-SA 2.0 · Adelboden © Firasco, CC BY-SA 3.0 · Spiez und Faulensee © Marco Beierer, CC BY-SA 3.0</sub>
