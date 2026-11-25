@@ -36,10 +36,9 @@ permalink: /
 
 | Option | Party bis | Weg | Im Hotel |
 |---|---|---|---|
-| **A** Früh | ca. 16.45 | Faulensee-Shuttle 17.00, provisorisch | ca. 18.00 |
-| **B** Abend | 23.00 | letzter Shuttle → P+R → Taxi | ca. 0.05 |
-| **C** Lange Nacht | ca. 0.45 | Moonliner 1.00 → Spiez → Taxi | ca. 2.10 |
-| **D** Taxi | beliebig | Taxi direkt, ca. 45 Min. | beliebig |
+| **A** Abend | 23.00 | letzter Shuttle → P+R → Taxi | ca. 0.05 |
+| **B** Lange Nacht | ca. 0.45 | Moonliner 1.00 → Spiez → Taxi | ca. 2.10 |
+| **C** Taxi | beliebig | Taxi direkt, ca. 45 Min. | beliebig |
 
 Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 
@@ -81,7 +80,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 | | **Faulensee-Shuttle ✓** | [P+R Reichenbach](https://www.weltcup-adelboden.ch/anreise) | Zug via Frutigen |
 |---|---|---|---|
 | Anfahrt | | Auto, Stau möglich | Bus/Auto → Bahnhof Spiez, Zug → Frutigen |
-| Shuttle | CHF 19 einfach, 32 retour | im Rennticket | im Rennticket, ca. 40 Min. |
+| Shuttle | CHF 19 einfach | im Rennticket | im Rennticket, ca. 40 Min. |
 | Parkieren | beim Hotel | CHF 15 pro Tag | beim Hotel |
 | Hinfahrt | 7.30 ab Hotel, nur 1× | 7.00–13.00 | 7.00–13.00, Extrazüge |
 | Rückfahrt | 17.00 ab Adelboden, nur 1× | 14.30–23.00 | 14.30–23.00 bis Frutigen |
@@ -95,7 +94,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 
 | Bis | Aufgabe |
 |---|---|
-| ☐ 27. November | Shuttle per Mail ans Hotel: Sa, 2 Pers., Hinfahrt, Retour ja/nein, Namen, E-Mail, Handy |
+| ☐ 27. November | Shuttle per Mail ans Hotel: Sa, 2 Pers., nur Hinfahrt, Namen, E-Mail, Handy |
 | ☐ bald | Voucher vorbezahlen → Schlüssel-Couvert |
 | ☐ bald | Hotel: Kreditkarte als Garantie, wie ohne Reception? |
 | ☑ | Auto beim Hotel parkieren: kein Problem |
@@ -118,7 +117,7 @@ Check-in jederzeit mit Schlüssel-Couvert, alle Optionen möglich.
 | Was | Info |
 |---|---|
 | Rennticket | offline auf dem Handy |
-| Moonliner | Spezialticket, nur Option C |
+| Moonliner | Spezialticket, nur Option B |
 | Taxi Spiez | Tagsi AG, +41 33 222 22 22 |
 
 **Packliste**
